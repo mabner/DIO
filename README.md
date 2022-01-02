@@ -6,14 +6,12 @@ Repositório criado no projeto de Git/Github, que vai servir de sumario para os 
 
 ### Criando um APP simples de cadastro de séries em .NET
 
-```text
 https://github.com/mabner/DIO_Bootcamp_Take_Series
-```
+
 
 ## Exercícios
 
 ### Desenvolvimento de aplicações com .NET (Curso MVC)
 
-```text
+
 https://github.com/mabner/DIO_Bootcamp_Take_CursoMVC
-```
