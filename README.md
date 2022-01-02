@@ -11,3 +11,9 @@ https://github.com/mabner/DIO_Bootcamp_Take_Series
 ```
 
 ## Exercícios
+
+### Desenvolvimento de aplicações com .NET (Curso MVC)
+
+```text
+https://github.com/mabner/DIO_Bootcamp_Take_CursoMVC
+```
